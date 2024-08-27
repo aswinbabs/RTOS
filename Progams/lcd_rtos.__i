@@ -1,0 +1,1 @@
+-c --device DARMP -D__EVAL -g -O0 --apcs=interwork -IC:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include -IC:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\portable\RVDS\ARM7_LPC21xx -I "C:\Keil\ARM\INC\Philips" -o "lcd_rtos.o" --omf_browse "lcd_rtos.crf" --depend "lcd_rtos.d" "LCD_RTOS.c"

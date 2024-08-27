@@ -1,0 +1,17 @@
+tasks.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\tasks.c
+tasks.o: C:\Keil\ARM\RV31\INC\stdlib.h
+tasks.o: C:\Keil\ARM\RV31\INC\string.h
+tasks.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\FreeRTOS.h
+tasks.o: C:\Keil\ARM\RV31\INC\stddef.h
+tasks.o: C:\Keil\ARM\RV31\INC\stdint.h
+tasks.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\FreeRTOSConfig.h
+tasks.o: C:\Keil\ARM\INC\Philips\lpc21xx.h
+tasks.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\projdefs.h
+tasks.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\portable.h
+tasks.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\deprecated_definitions.h
+tasks.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\portable\RVDS\ARM7_LPC21xx\portmacro.h
+tasks.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\mpu_wrappers.h
+tasks.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\task.h
+tasks.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\list.h
+tasks.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\timers.h
+tasks.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\StackMacros.h

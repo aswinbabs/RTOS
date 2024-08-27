@@ -1,0 +1,15 @@
+lcd_rtos.o: LCD_RTOS.c
+lcd_rtos.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\freeRTOS.h
+lcd_rtos.o: C:\Keil\ARM\RV31\INC\stddef.h
+lcd_rtos.o: C:\Keil\ARM\RV31\INC\stdint.h
+lcd_rtos.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\FreeRTOSConfig.h
+lcd_rtos.o: C:\Keil\ARM\INC\Philips\lpc21xx.h
+lcd_rtos.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\projdefs.h
+lcd_rtos.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\portable.h
+lcd_rtos.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\deprecated_definitions.h
+lcd_rtos.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\portable\RVDS\ARM7_LPC21xx\portmacro.h
+lcd_rtos.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\mpu_wrappers.h
+lcd_rtos.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\task.h
+lcd_rtos.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\list.h
+lcd_rtos.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\semphr.h
+lcd_rtos.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\queue.h

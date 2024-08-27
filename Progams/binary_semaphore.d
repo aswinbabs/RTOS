@@ -1,0 +1,15 @@
+binary_semaphore.o: BINARY_SEMAPHORE.c
+binary_semaphore.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\FreeRTOS.h
+binary_semaphore.o: C:\Keil\ARM\RV31\INC\stddef.h
+binary_semaphore.o: C:\Keil\ARM\RV31\INC\stdint.h
+binary_semaphore.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\FreeRTOSConfig.h
+binary_semaphore.o: C:\Keil\ARM\INC\Philips\lpc21xx.h
+binary_semaphore.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\projdefs.h
+binary_semaphore.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\portable.h
+binary_semaphore.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\deprecated_definitions.h
+binary_semaphore.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\portable\RVDS\ARM7_LPC21xx\portmacro.h
+binary_semaphore.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\mpu_wrappers.h
+binary_semaphore.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\task.h
+binary_semaphore.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\list.h
+binary_semaphore.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\semphr.h
+binary_semaphore.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\queue.h

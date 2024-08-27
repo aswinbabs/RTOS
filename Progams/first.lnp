@@ -1,0 +1,4 @@
+--device DARMP ".\startup.o" "mutex_adc.o" "list.o" "queue.o" "tasks.o" "port.o" "heap_4.o" ".\portasm.o" --strict --scatter "first.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\first.map" -o "first.axf"

@@ -1,0 +1,13 @@
+ledblink_rtos.o: ledblink_rtos.c
+ledblink_rtos.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\FreeRTOS.h
+ledblink_rtos.o: C:\Keil\ARM\RV31\INC\stddef.h
+ledblink_rtos.o: C:\Keil\ARM\RV31\INC\stdint.h
+ledblink_rtos.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\FreeRTOSConfig.h
+ledblink_rtos.o: C:\Keil\ARM\INC\Philips\lpc21xx.h
+ledblink_rtos.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\projdefs.h
+ledblink_rtos.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\portable.h
+ledblink_rtos.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\deprecated_definitions.h
+ledblink_rtos.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\portable\RVDS\ARM7_LPC21xx\portmacro.h
+ledblink_rtos.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\mpu_wrappers.h
+ledblink_rtos.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\task.h
+ledblink_rtos.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\list.h

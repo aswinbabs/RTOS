@@ -1,0 +1,16 @@
+counting_semaphore.o: COUNTING_SEMAPHORE.c
+counting_semaphore.o: C:\Keil\ARM\INC\Philips\lpc213x.h
+counting_semaphore.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\FreeRTOS.h
+counting_semaphore.o: C:\Keil\ARM\RV31\INC\stddef.h
+counting_semaphore.o: C:\Keil\ARM\RV31\INC\stdint.h
+counting_semaphore.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\FreeRTOSConfig.h
+counting_semaphore.o: C:\Keil\ARM\INC\Philips\lpc21xx.h
+counting_semaphore.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\projdefs.h
+counting_semaphore.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\portable.h
+counting_semaphore.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\deprecated_definitions.h
+counting_semaphore.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\portable\RVDS\ARM7_LPC21xx\portmacro.h
+counting_semaphore.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\mpu_wrappers.h
+counting_semaphore.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\task.h
+counting_semaphore.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\list.h
+counting_semaphore.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\semphr.h
+counting_semaphore.o: C:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include\queue.h

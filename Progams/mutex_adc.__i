@@ -1,0 +1,1 @@
+-c --device DARMP -D__EVAL -g -O0 --apcs=interwork -IC:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include -IC:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\portable\RVDS\ARM7_LPC21xx -I "C:\Keil\ARM\INC\Philips" -o "mutex_adc.o" --omf_browse "mutex_adc.crf" --depend "mutex_adc.d" "MUTEX_ADC.c"

@@ -1,0 +1,1 @@
+-c --device DARMP -D__EVAL -g -O0 --apcs=interwork -IC:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\include -IC:\Aswin(RTOS)\FreeRTOS\FreeRTOS\Source\portable\RVDS\ARM7_LPC21xx -I "C:\Keil\ARM\INC\Philips" -o "task_delete_from_another.o" --omf_browse "task_delete_from_another.crf" --depend "task_delete_from_another.d" "TASK_DELETE_FROM_ANOTHER.c"
